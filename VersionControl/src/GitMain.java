@@ -8,6 +8,9 @@ public class GitMain {
 		
 		System.out.println("...............\n .................\n..............");
 
+		System.out.println(".......A........\n .........L........\n........I......");
+
+		
 	}
 
 }
